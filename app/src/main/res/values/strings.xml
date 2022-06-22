@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+
+    <string name="string1">Now Playing</string>
+    <string name="string2">Talk Me Down</string>
+    <string name="string3">Blue Neighbourhood</string>
+</resources>
